@@ -1,0 +1,6 @@
+# ignore ALL files in ANY directory named config
+config/
+# ignore ALL files in ANY directory named node_modules
+node_modules/
+# Starting with / specifies the pattern matches only files in the root folder
+/package-lock.json
